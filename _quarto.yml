@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Samantha Manuel's Blog"
+  navbar:
+    right:
+      - blogabout.qmd
+      - icon: github
+        href: https://github.com/Samantha-Manuel/samantha-manuel.github.io
+      - icon: twitter
+        href: https://twitter.com/sami_an_manuel
+format:
+  html:
+    theme: yeti
+    css: styles.css
+
+editor: visual
+
