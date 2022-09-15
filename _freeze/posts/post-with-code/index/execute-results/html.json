@@ -1,0 +1,14 @@
+{
+  "hash": "993f084154ca8185f6dbac85b9fd03e8",
+  "result": {
+    "markdown": "---\ntitle: \"Assignment 2\"\nauthor: \"Samantha Manuel\"\ndate: \"2022-09-15\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\n2.Run Paul Murrell\\'s RGraphics basic R programs (murrell01.R)\n\na.Be sure to run line by line and note the changes.\n\nb\\. Pay attention to the comments and address the question if there is one\n\nc.Plotting functions (note: exercise using the happy planet data set http://happyplanetindex.org)\n\ni.par()ii.lines()iii.points()iv.axis()v.box()vi.text()vii.mtext()viii.hist()ix.boxplot()x.legend()xi.persp()xii.names()xiii.pie()\n\nd.Post your works on your blog/website\n\n3.Read Murrell\\'s R Graphicsfor reference\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
