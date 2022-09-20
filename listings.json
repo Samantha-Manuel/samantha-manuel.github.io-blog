@@ -2,7 +2,9 @@
   {
     "listing": "/blogindex.html",
     "items": [
+      "/posts/googleflu_wickham/index.html",
       "/posts/assign02/index.html",
+      "/posts/edwardtufte/index.html",
       "/posts/welcome/index.html"
     ]
   }
