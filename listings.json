@@ -2,6 +2,8 @@
   {
     "listing": "/blogindex.html",
     "items": [
+      "/posts/assign04/index.html",
+      "/posts/gapminder/index.html",
       "/posts/comparison/index.html",
       "/posts/assign03/index.html",
       "/posts/googleflu_wickham/index.html",
